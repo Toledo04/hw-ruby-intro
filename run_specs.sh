@@ -1,4 +1,4 @@
-#!/bin/bash
+run_s#!/bin/bash
 # Interactive RSpec runner for ESaaS CHIPs.
 #
 # Presents a menu of the assignment's spec files so students can run a single
